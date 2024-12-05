@@ -1,0 +1,183 @@
+[
+  {
+    "S.No.": "1.1.0",
+    "Test Suite/Test Case": "Basic Testing",
+    "Estimated Time (in Days)": 5
+  },
+  {
+    "S.No.": "1.1.1",
+    "Test Suite/Test Case": "AP Capabilities & Power Cycle",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.1.2",
+    "Test Suite/Test Case": "Client Capacity with Open, WPA2/WPA3.",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.1.3",
+    "Test Suite/Test Case": "Single Client Throughput Test on 2.4, 5, and 6 GHz.",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "1.1.4",
+    "Test Suite/Test Case": "Single Client Throughput Test on 2.4, 5, and 6 GHz bands with different packet sizes",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.1.5",
+    "Test Suite/Test Case": "8-Hour Long Duration Stress Test",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.2.0",
+    "Test Suite/Test Case": "Advanced Testing",
+    "Estimated Time (in Days)": 18
+  },
+  {
+    "S.No.": "1.2.1",
+    "Test Suite/Test Case": "Client Connectivity with 802.1x",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.2",
+    "Test Suite/Test Case": "Multi/Max Client Throughput",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "1.2.3",
+    "Test Suite/Test Case": "Multi Band Throughput",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.2.4",
+    "Test Suite/Test Case": "Bi-Directional",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.5",
+    "Test Suite/Test Case": "Multi Cast Traffic",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.6",
+    "Test Suite/Test Case": "Quality of Service",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.7",
+    "Test Suite/Test Case": "FTP/HTTP",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.8",
+    "Test Suite/Test Case": "Auto Channel Selection",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.2.9",
+    "Test Suite/Test Case": "Air Time Fairness",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.10",
+    "Test Suite/Test Case": "OFDMA",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.11",
+    "Test Suite/Test Case": "MU-MIMO",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.12",
+    "Test Suite/Test Case": "Interference Testing ACI/CCI",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.2.13",
+    "Test Suite/Test Case": "Receiver Sensitivity",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "1.2.14",
+    "Test Suite/Test Case": "Rate vs Range",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "1.2.15",
+    "Test Suite/Test Case": "Rate vs Range vs Orientation",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "1.2.16",
+    "Test Suite/Test Case": "Band Steering",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.2.17",
+    "Test Suite/Test Case": "Dynamic Frequency Selection",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "1.3.0",
+    "Test Suite/Test Case": "More Advance Testing",
+    "Estimated Time (in Days)": 20
+  },
+  {
+    "S.No.": "1.3.1.0",
+    "Test Suite/Test Case": "Validating Wi-Fi 7 Feature’s.",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "1.3.1.1",
+    "Test Suite/Test Case": "Multi Link Operation",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.3.1.2",
+    "Test Suite/Test Case": "Preamble Puncturing",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.3.1.3",
+    "Test Suite/Test Case": "320 MHz, 4K QAM",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.3.1.4",
+    "Test Suite/Test Case": "BSS coloring",
+    "Estimated Time (in Days)": 0.5
+  },
+  {
+    "S.No.": "1.3.1.5",
+    "Test Suite/Test Case": "MU-OFDMA",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.3.2.0",
+    "Test Suite/Test Case": "TR-398 Issue2/3/4",
+    "Estimated Time (in Days)": 10
+  },
+  {
+    "S.No.": "1.3.3.0",
+    "Test Suite/Test Case": "Validating Mesh Features and Performance",
+    "Estimated Time (in Days)": 4
+  },
+  {
+    "S.No.": "1.3.3.1",
+    "Test Suite/Test Case": "Mesh Functionality – Mesh Discovery, Peering, Path Selection",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "1.3.3.2",
+    "Test Suite/Test Case": "Mesh Roaming with different topologies",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "1.3.4.0",
+    "Test Suite/Test Case": "Scale Testing - Connecting 500+ clients wirh different load/patterns",
+    "Estimated Time (in Days)": 3
+  }
+  
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "S.No.": "3.1.0",
+    "Test Suite/Test Case": "Coverage Testing",
+    "Estimated Time (in Days)": 4
+  },
+  {
+    "S.No.": "3.1.1",
+    "Test Suite/Test Case": "RSSI coverage Test in 2000+ sq ft Test House with single, two/three node",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "3.1.2",
+    "Test Suite/Test Case": "Throughput (TCP, UDP - UL, DL & Bi-Di) with single/two/three nodes",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "3.2.0",
+    "Test Suite/Test Case": "Capacity",
+    "Estimated Time (in Days)": 8
+  },
+  {
+    "S.No.": "3.2.1",
+    "Test Suite/Test Case": "Client connectivity with 50+ devices spread across the floor",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "3.2.3",
+    "Test Suite/Test Case": "Throughput per Band",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "3.2.4",
+    "Test Suite/Test Case": "Throughput per Node",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "3.2.5",
+    "Test Suite/Test Case": "Load Balancing",
+    "Estimated Time (in Days)": 2.5
+  },
+  {
+    "S.No.": "3.2.6",
+    "Test Suite/Test Case": "Band Steering",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "3.3.0",
+    "Test Suite/Test Case": "Mobility",
+    "Estimated Time (in Days)": 7
+  },
+  {
+    "S.No.": "3.3.1",
+    "Test Suite/Test Case": "Roaming with different topologies like Daisy Chain, Star with two or more nodes",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "3.3.2",
+    "Test Suite/Test Case": "802.11r Roaming with two or more nodes",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "3.3.3",
+    "Test Suite/Test Case": "Roaming with real application like Youtube, Teams",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "3.4.0",
+    "Test Suite/Test Case": "Interoperability",
+    "Estimated Time (in Days)": 5
+  },
+  {
+    "S.No.": "3.4.1",
+    "Test Suite/Test Case": "Throughput with different types of Phones/Tablets/Laptops",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "3.4.2",
+    "Test Suite/Test Case": "Performance over Distance",
+    "Estimated Time (in Days)": 3
+  }
+]

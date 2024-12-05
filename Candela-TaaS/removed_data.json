@@ -1,0 +1,76 @@
+{
+    "S.No.": "2.1.0",
+    "Test Suite/Test Case": "Client Connectivity with Open, WPA2, with different OS types Windows, Linux, MAC, iOS",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.2.0",
+    "Test Suite/Test Case": "Ping Test with different OS types Windows, Linux, MAC, iOS",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "2.3.0",
+    "Test Suite/Test Case": "FTP with different size and different OS",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.4.0",
+    "Test Suite/Test Case": "Video Browsing using Dash/Progressive/HLS Media",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "2.5.0",
+    "Test Suite/Test Case": "Web Browsing - Online & Offline Method",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "2.6.0",
+    "Test Suite/Test Case": "Multi Cast Traffic",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "2.7.0",
+    "Test Suite/Test Case": "QoS",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.8.0",
+    "Test Suite/Test Case": "RvR",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "2.9.0",
+    "Test Suite/Test Case": "Band Steering",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.10.0",
+    "Test Suite/Test Case": "Roaming with different topologies",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "2.11.0",
+    "Test Suite/Test Case": "Mixed Traffic (QOS, FTP, HTTP, PING, MULTICAST)",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.12.0",
+    "Test Suite/Test Case": "High Stress with different load, protocols for 8 Hours",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "3.1.0",
+    "Test Suite/Test Case": "AP coverage in 2000+ sq feet house for all the bands",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "3.1.1",
+    "Test Suite/Test Case": "Test with 30+ real devices in 2000+ sq ft house streaming youtube and real application traffic.",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "3.1.2",
+    "Test Suite/Test Case": "Mobility Testing",
+    "Estimated Time (in Days)": 4
+  }
+  

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Candela TaaS Test Cases</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
+    
+    </head>
+    <body>
+        <header class="header">
+            <div class="logo-container">
+                <img src="candela_logo.png" alt="Logo" class="logo" height="100px" width="110px">
+            </div>
+            <div class="title-container">
+                <h1>Candela Multi-Stage Wi-Fi Testing Services Catalog</h1>
+            </div>
+            <div class="contactBlock">
+                <p class="contact-details">
+                    <a href="mailto:sales@candelatech.com">sales@candelatech.com</a><br>
+                    <a href="mailto:support@candelatech.com">support@candelatech.com</a><br>
+                    <span>+1 (360) 380-1618 [PST, GMT -8]</span>
+                </p>
+            </div>            
+        </header>
+        
+        <div class="functional_pane">
+            <div class="functional_pane_elements stage1_container" style="display: flex;">
+                <div class="table-container">
+                <table id="Stage1" class="test_cases_list_stage1"  border="1">
+                
+                </table>
+            </div>  
+            <div class="table-container">
+                <table id="Stage2" class="test_cases_list_stage1"  border="1">
+               
+                </table>
+            </div>
+            <div class="table-container">
+                <table id="Stage3" class="test_cases_list_stage1"  border="1">
+                    
+                </table>
+            </div>
+            </div>
+            
+        </div>
+        <div style="display:flex">
+        <div class="functional_pane_elements1 stage1_container">
+            <table id="selected_stages" class="test_cases_list_stage1"  border="1">
+                    
+            </table>
+        </div>
+        <div class="center-container">
+            <h1 id="estimated_time" style="display: none;">
+                Total Estimated Time in Days: 0
+            </h1>
+            <button onclick="downloadPDF()" style="display: none;" id="pdf_button">Download PDF</button>
+        </div>
+    </div>
+    </body>
+</html>

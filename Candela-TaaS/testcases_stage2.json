@@ -1,0 +1,77 @@
+[
+  {
+    "S.No.": "2.1.0",
+    "Test Suite/Test Case": "Features & Performance",
+    "Estimated Time (in Days)": 27
+  },
+  {
+    "S.No.": "2.1.1",
+    "Test Suite/Test Case": "Client Connectivity with Open, WPA2, with different OS types Windows, Linux, MAC, iOS",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.1.2",
+    "Test Suite/Test Case": "Throughput with different types of Phones/Tablets/Laptops",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.1.3",
+    "Test Suite/Test Case": "Ping Test with different OS types Windows, Linux, MAC, iOS",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "2.1.4",
+    "Test Suite/Test Case": "File Transfer Protocol",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.1.5",
+    "Test Suite/Test Case": "Video Browsing using Dash/Progressive/HLS Media",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "2.1.6",
+    "Test Suite/Test Case": "Web Browsing - Online & Offline Method",
+    "Estimated Time (in Days)": 1
+  },
+  {
+    "S.No.": "2.1.7",
+    "Test Suite/Test Case": "Multi Cast Traffic",
+    "Estimated Time (in Days)": 1.5
+  },
+  {
+    "S.No.": "2.1.8",
+    "Test Suite/Test Case": "QoS",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.1.9",
+    "Test Suite/Test Case": "RvR",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "2.1.10",
+    "Test Suite/Test Case": "Band Steering",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.1.11",
+    "Test Suite/Test Case": "Roaming with different topologies",
+    "Estimated Time (in Days)": 3
+  },
+  {
+    "S.No.": "2.1.12",
+    "Test Suite/Test Case": "Mixed Traffic (QOS, FTP, HTTP, PING, MULTICAST)",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.1.13",
+    "Test Suite/Test Case": "High Stress with different load, protocols for 8 Hours",
+    "Estimated Time (in Days)": 2
+  },
+  {
+    "S.No.": "2.1.14",
+    "Test Suite/Test Case": "Real Application Traffic like YouTube, Microsoft Team, Zoom and Real Browser Testing",
+    "Estimated Time (in Days)": 2
+  }
+]

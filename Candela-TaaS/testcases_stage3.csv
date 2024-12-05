@@ -1,0 +1,4 @@
+S.No.,Test Suite/Test Case,Estimated Time (in Days)
+3.1.0,AP coverage in 2000+ sq feet house for all the bands,3
+3.1.1,Test with 30+ real devices in 2000+ sq ft house streaming youtube and real application traffic.,3
+3.1.2,Mobility Testing ,4
